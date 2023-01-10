@@ -1,5 +1,16 @@
 .App {
   text-align: center;
+
+}
+
+.converter-wrapper {
+  width: 60%;
+  margin: auto;
+  margin-top: 10%;
+}
+
+.btn {
+  margin: auto;
 }
 
 .App-logo {
@@ -32,6 +43,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
